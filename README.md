@@ -1,1 +1,2 @@
-# space-shooter-4
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
